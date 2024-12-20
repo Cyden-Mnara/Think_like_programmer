@@ -23,9 +23,9 @@
 *~
 
 # compiled program
-./draw_words_main
-./simple_calc.out
-./luhn_checksum_validation.cpp
-./draw_shapes_main
-./testEmoj
-./side_way_triangle
+/draw_words_main
+/simple_calc.out
+/luhn_checksum_validation.cpp
+/draw_shapes_main
+/testEmoj
+/side_way_triangle
